@@ -107,3 +107,6 @@ I act as a bridge between business strategy and technical execution, ensuring sc
 
 - **Email**: [cristian97rodriguezm@gmail.com](mailto:cristian97rodriguezm@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/cristiancrm](https://www.linkedin.com/in/cristiancrm/)
+
+
+<img src="https://komarev.com/ghpvc/?username=Cristian-RM&style=flat-square&color=blue" alt=""/>
