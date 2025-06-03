@@ -1,64 +1,61 @@
-
-
 <div align="center">
-  <h1>👋 Hola, soy Cristian Rodríguez</h1>
+  <h1>👋 Hi, I'm Cristian Rodríguez</h1>
   <p>
-    Desarrollador Backend · Líder Técnico · Dynamics Developer
+    Backend Developer · Technical Lead · Dynamics 365 Specialist
   </p>
 </div>
 
 ---
 
-## 📖 Sobre mí
+## 📖 About Me
 
-Soy **Líder Técnico** con 3 años de experiencia en **Las Catalinas**, enfocado en arquitectura de software, integración de soluciones y asesoría técnica. Me especializo en:
+I’m a **Technical Lead** with 3 years of experience at **Las Catalinas**, focused on software architecture, solution integration, and technical consulting. I specialize in:
 
-- Desarrollo **Backend** con **C#**.
-- Análisis de datos y generación de informes con **Power BI**.
-- Diseño y administración de bases de datos (SQL Server, Dataverse).
-- Desarrollo y personalización en **Dynamics 365** (Plugins, Flujos, File Services, Integraciones).
-- Lenguajes adicionales: **HTML**, **JavaScript**, **Python** (básico).
+- **Backend development** with **C#**.  
+- Data analysis and report building with **Power BI**.  
+- Database design and management (SQL Server, Dataverse).  
+- Development and customization in **Dynamics 365** (Plugins, Flows, File Services, Integrations).  
+- Additional languages: **HTML**, **JavaScript**, **Python** (basic).  
 
-Trabajo como un puente entre la estrategia empresarial y la implementación técnica, asegurando entregas de valor y soluciones escalables.
-
----
-
-## 💼 Experiencia
-
-### Las Catalinas (Costa Rica) · Líder Técnico · Mar 2022 – Presente
-- **Arquitectura de Software**: Definí la estrategia para nuevos módulos en sistemas Dynamics CRM, Softland y Vertical.
-- **Dynamics Developer**: 
-  - Implementé Plugins para validaciones y automatizaciones complejas.
-  - Configuré **File Service** e integraciones con SharePoint y Azure Blob Storage.
-  - Desarrollé Flujos de Power Automate para automatizar procesos de negocio.
-- **Análisis de Datos**: Creación de dashboards en **Power BI** para monitoreo de KPIs y métricas operativas.
-- **Administración de Bases de Datos**: Diseño de esquemas en SQL Server y Dataverse, optimización de consultas y mantenimiento de índices.
-- **Liderazgo de Equipo**: Asesoramiento técnico, code reviews y gestión de tareas para un equipo de 5 desarrolladores.
-- **Comunicación con Clientes**: Revisiones de requerimientos, presentaciones formales y documentación en DevOps.
+I act as a bridge between business strategy and technical execution, ensuring scalable, high-impact solutions.
 
 ---
 
-<!-- Sección de Habilidades Técnicas con recuadros -->
-<!-- Sección de Habilidades Técnicas en 4 columnas -->
+## 💼 Experience
+
+### Las Catalinas (Costa Rica) · Technical Lead · Mar 2022 – Present
+- **Software Architecture**: Defined strategies for new modules in Dynamics CRM, Softland, and Vertical.  
+- **Dynamics Developer**:  
+  - Implemented Plugins for complex validations and automation.  
+  - Configured **File Services** and integrations with SharePoint and Azure Blob Storage.  
+  - Developed Power Automate Flows to automate business processes.  
+- **Data Analysis**: Built dashboards in **Power BI** for KPI and operational metric tracking.  
+- **Database Management**: Designed schemas in SQL Server and Dataverse, optimized queries, and maintained indexes.  
+- **Team Leadership**: Technical mentoring, code reviews, and task management for a 5-developer team.  
+- **Client Communication**: Requirement reviews, formal presentations, and DevOps documentation.
+
+---
+
+<!-- Technical Skills Section in 4 Columns -->
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px;">
 
-  <!-- Columna 1: Lenguajes de Programación -->
+  <!-- Column 1: Programming Languages -->
   <div style="border: 1px solid #ccc; border-radius: 6px; padding: 10px;">
-    <h4 style="margin-top: 0; font-weight: bold; color: #333;">🖥️ Lenguajes</h4>
+    <h4 style="margin-top: 0; font-weight: bold; color: #333;">🖥️ Languages</h4>
     <ul style="margin: 0; padding-left: 16px; color: #555; font-size: 14px;">
       <li>C# (ASP.NET Core, .NET Framework)</li>
-      <li>SQL (T-SQL, consultas complejas)</li>
-      <li>HTML, JavaScript (básico)</li>
-      <li>Python (principiante)</li>
+      <li>SQL (T-SQL, complex queries)</li>
+      <li>HTML, JavaScript (basic)</li>
+      <li>Python (beginner)</li>
     </ul>
   </div>
 
-  <!-- Columna 2: Plataformas y Frameworks -->
+  <!-- Column 2: Platforms & Frameworks -->
   <div style="border: 1px solid #ccc; border-radius: 6px; padding: 10px;">
-    <h4 style="margin-top: 0; font-weight: bold; color: #333;">⚙️ Plataformas/Frameworks</h4>
+    <h4 style="margin-top: 0; font-weight: bold; color: #333;">⚙️ Platforms / Frameworks</h4>
     <ul style="margin: 0; padding-left: 16px; color: #555; font-size: 14px;">
       <li>Dynamics 365 / Dataverse</li>
-      <li>Power BI (DAX, visualizaciones)</li>
+      <li>Power BI (DAX, visualizations)</li>
       <li>Azure (Functions, Blob Storage, App Services)</li>
       <li>ASP.NET Core Web API</li>
       <li>Entity Framework Core</li>
@@ -66,21 +63,21 @@ Trabajo como un puente entre la estrategia empresarial y la implementación téc
     </ul>
   </div>
 
-  <!-- Columna 3: Bases de Datos -->
+  <!-- Column 3: Databases -->
   <div style="border: 1px solid #ccc; border-radius: 6px; padding: 10px;">
-    <h4 style="margin-top: 0; font-weight: bold; color: #333;">🗄️ Bases de Datos</h4>
+    <h4 style="margin-top: 0; font-weight: bold; color: #333;">🗄️ Databases</h4>
     <ul style="margin: 0; padding-left: 16px; color: #555; font-size: 14px;">
-      <li>SQL Server (diseño, normalización, optimización)</li>
-      <li>Dataverse (modelos, entidades, relaciones, seguridad)</li>
+      <li>SQL Server (design, normalization, optimization)</li>
+      <li>Dataverse (models, entities, relationships, security)</li>
     </ul>
   </div>
 
-  <!-- Columna 4: Herramientas y Metodologías -->
+  <!-- Column 4: Tools & Methodologies -->
   <div style="border: 1px solid #ccc; border-radius: 6px; padding: 10px;">
-    <h4 style="margin-top: 0; font-weight: bold; color: #333;">🛠️ Herramientas / Metodologías</h4>
+    <h4 style="margin-top: 0; font-weight: bold; color: #333;">🛠️ Tools / Methodologies</h4>
     <ul style="margin: 0; padding-left: 16px; color: #555; font-size: 14px;">
       <li>Azure DevOps (Repos, Pipelines, Boards)</li>
-      <li>Git (control de versiones)</li>
+      <li>Git (version control)</li>
       <li>Scrum / Kanban</li>
       <li>Postman / Swagger</li>
       <li>Visual Studio / VS Code</li>
@@ -90,23 +87,23 @@ Trabajo como un puente entre la estrategia empresarial y la implementación téc
 
 </div>
 
+---
 
+## 🚀 Featured Projects
 
-## 🚀 Proyectos Destacados
+- **Dynamics ↔ Azure Blob Integration**  
+  Built a service that syncs Dynamics documents with Azure Blob Storage via Plugins.  
+  _Tech Stack_: C#, Dynamics 365, Azure Blob Storage, Windows Services.  
+  _Impact_: Saved approx. $8,000 annually.
 
-- **Integración Dynamics ↔ Azure Blob**  
-  Implementación de un servicio que sincroniza documentos de Dynamics a Azure Blob Storage mediante Plugins.  
-  _Tecnologías_: C#, Dynamics 365, Azure Blob Storage, Windows Services.
-  _Ahorro_: $8000 anuales
-
-- **Dashboard de KPI para Seguimiento Financiero**  
-  Desarrollo de informes en Power BI conectados a SQL Server y Dataverse, mostrando métricas de facturación, gastos y productividad.  
-  _Tecnologías_: Power BI, DAX, SQL Server, Dataverse.
-  _Impacto_: Visibiilidad a los despartamentos del rendimiento de la compañia.
+- **Financial KPI Dashboard**  
+  Power BI reports connected to SQL Server and Dataverse, visualizing key business metrics on billing, expenses, and productivity.  
+  _Tech Stack_: Power BI, DAX, SQL Server, Dataverse.  
+  _Outcome_: Enhanced visibility across departments.
 
 ---
 
-## 📞 Contacto
+## 📞 Contact
 
-- **Correo**: [cristian97rodriguezm@gmail.com](mailto:cristian97rodriguezm@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/https://www.linkedin.com/in/cristiancrm](https://www.linkedin.com/in/cristiancrm/)
+- **Email**: [cristian97rodriguezm@gmail.com](mailto:cristian97rodriguezm@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/cristiancrm](https://www.linkedin.com/in/cristiancrm/)
